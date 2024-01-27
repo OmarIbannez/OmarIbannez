@@ -10,7 +10,7 @@ I am a seasoned **Software and Data Engineer** with over ten years of experience
 
 - **DispatchHealth**: Built a **Feature Store** to manage, store, and disseminate features for model building and deployment. This project involved **AWS SageMaker, Prefect** (a workflow orchestration platform), and other tools, handling sensitive patient and medical data in compliance with **HIPAA** regulations. 🔒
 
-## Currently seeking opportunities in the following roles:
+#### Currently seeking opportunities in the following roles:
 - Principal Software Engineer
 - Senior Software Engineer
 - Engineering Manager
