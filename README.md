@@ -1,13 +1,13 @@
-# Hi there 👋
+# Hello there! 👋
 
-I am a seasoned **Software and Data Engineer** with over ten years of experience across **Health, Finance, Recruiting, and Insurance** sectors. My expertise lies in building and scaling technological infrastructures and teams.
+Seasoned Software and Data Engineer here, with a decade of experience innovating in the Health, Finance, Recruiting, and Insurance sectors. I specialize in building and elevating technological infrastructures and fostering collaborative, fast-paced team environments.
 
-## Key Contributions:
+## Noteworthy Contributions:
 
-- **Koffie Financial**: Developed a cutting-edge calculation engine using Directed Acyclic Graphs (DAGs) and a Domain-Specific Language (DSL). This system revolutionized insurance policy rating by transitioning from error-prone spreadsheets to a robust, automated system. Key technologies I used include **Python, SQLAlchemy, PostgreSQL, FastAPI, Docker**, and various **Google Cloud Platform** services. This foundation also facilitated my subsequent project: automating financial transactions in **QuickBooks**.
+- **Koffie Financial**: Led the creation of an advanced calculation engine using Directed Acyclic Graphs (DAGs) and a Domain-Specific Language (DSL), transforming insurance policy rating from manual spreadsheets to a dynamic, automated system. Employed **Python, SQLAlchemy, PostgreSQL, FastAPI, Docker**, alongside **Google Cloud Platform** services, laying the groundwork for more projects such as more accurate reporting and automating financial transactions in **QuickBooks**.
 
-- **Eastridge Workforce Solution**: Played a pivotal role in establishing the initial engineering team for the Mexico office. Beyond recruitment, I received corporate training for the Engineering Manager position and contributed to enhancing various microservices using **Python, Flask, PostgreSQL, SQLAlchemy**, and **AWS**.
+- **Eastridge Workforce Solutions**: Crucial in setting up the inaugural engineering team for our Mexico office, transcending recruitment duties to embrace corporate training for the Engineering Manager role, while improving various microservices with **Python, Flask, PostgreSQL, SQLAlchemy**, and **AWS**.
 
-- **DispatchHealth**: Built a **Feature Store** to manage, store, and disseminate features for model building and deployment. This project involved **AWS SageMaker, Prefect** (a workflow orchestration platform), and other tools, handling sensitive patient and medical data in compliance with **HIPAA** regulations.
+- **DispatchHealth**: Architect of a **Feature Store** to efficiently manage, store, and deploy features for model building, leveraging **AWS SageMaker, Redshift, Terraform, S3, Prefect** (akin to Airflow), amongst other technologies, ensuring compliance with **HIPAA** regulations for sensitive patient data.
 
-For a more detailed overview of my professional journey, please refer to my [resume](https://gist.github.com/OmarIbannez/257ce9830ab888a5fe018278cc25a61c).
+Curious about my professional path or want to delve deeper into my projects? Feel free to check out my [resume](https://gist.github.com/OmarIbannez/257ce9830ab888a5fe018278cc25a61c).
