@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hola 👋
 
 Seasoned Software and Data Engineer here, with a decade of experience innovating in the Health, Finance, Recruiting, and Insurance sectors. I specialize in building and elevating technological infrastructures and fostering collaborative, fast-paced team environments.
 
